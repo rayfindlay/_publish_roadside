@@ -1,0 +1,122 @@
+{
+  "_comment": "Fleet metadata not captured by SiteDocs or Titan: per-vehicle status + compliance dates, per-driver license + medical dates. Hand-edited (no upstream feed). Edit dates here when you renew CVIP, register a vehicle, update a driver's medical, etc.",
+  "_status_values": ["in_service", "out_of_service", "maintenance"],
+  "_date_format": "YYYY-MM-DD",
+  "vehicles": {
+    "FDT12": {
+      "status": "in_service",
+      "status_note": "",
+      "cvip_expires": "",
+      "registration_expires": "",
+      "insurance_expires": "",
+      "notes": ""
+    },
+    "FDT14": {
+      "status": "in_service",
+      "status_note": "",
+      "cvip_expires": "",
+      "registration_expires": "",
+      "insurance_expires": "",
+      "notes": ""
+    },
+    "FDT15": {
+      "status": "in_service",
+      "status_note": "",
+      "cvip_expires": "",
+      "registration_expires": "",
+      "insurance_expires": "",
+      "notes": ""
+    },
+    "FPT10": {
+      "status": "in_service",
+      "status_note": "",
+      "cvip_expires": "",
+      "registration_expires": "",
+      "insurance_expires": "",
+      "notes": ""
+    },
+    "FPT20": {
+      "status": "in_service",
+      "status_note": "",
+      "cvip_expires": "",
+      "registration_expires": "",
+      "insurance_expires": "",
+      "notes": ""
+    },
+    "FPT21": {
+      "status": "in_service",
+      "status_note": "",
+      "cvip_expires": "",
+      "registration_expires": "",
+      "insurance_expires": "",
+      "notes": ""
+    },
+    "FPT22": {
+      "status": "in_service",
+      "status_note": "",
+      "cvip_expires": "",
+      "registration_expires": "",
+      "insurance_expires": "",
+      "notes": ""
+    },
+    "FPT23": {
+      "status": "in_service",
+      "status_note": "",
+      "cvip_expires": "",
+      "registration_expires": "",
+      "insurance_expires": "",
+      "notes": ""
+    }
+  },
+  "drivers": {
+    "adelelsirri": {
+      "license_class": "",
+      "license_expires": "",
+      "medical_expires": "",
+      "abstract_obtained": "",
+      "notes": ""
+    },
+    "curtisbouwsema": {
+      "license_class": "",
+      "license_expires": "",
+      "medical_expires": "",
+      "abstract_obtained": "",
+      "notes": ""
+    },
+    "dustinmarriott": {
+      "license_class": "",
+      "license_expires": "",
+      "medical_expires": "",
+      "abstract_obtained": "",
+      "notes": ""
+    },
+    "jasonchampagne": {
+      "license_class": "",
+      "license_expires": "",
+      "medical_expires": "",
+      "abstract_obtained": "",
+      "notes": ""
+    },
+    "kylewebber": {
+      "license_class": "",
+      "license_expires": "",
+      "medical_expires": "",
+      "abstract_obtained": "",
+      "notes": ""
+    },
+    "stefangurba": {
+      "license_class": "",
+      "license_expires": "",
+      "medical_expires": "",
+      "abstract_obtained": "",
+      "notes": ""
+    },
+    "timzwarich": {
+      "license_class": "",
+      "license_expires": "",
+      "medical_expires": "",
+      "abstract_obtained": "",
+      "notes": ""
+    }
+  }
+}

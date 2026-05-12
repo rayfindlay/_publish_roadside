@@ -1,0 +1,14 @@
+{
+  "name": "norfab-fleet-compliance",
+  "version": "1.0.0",
+  "description": "Norfab Fleet Compliance, dashboard, phone view, and compliance evaluation logic.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.8"
+  }
+}
